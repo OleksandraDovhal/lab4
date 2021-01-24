@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OZH//0S7Gw/9nBssy7r7qpIDi2PrFM1EwFce7KnH5+G9/e351PoYuANUHmbSsVT/lm+vk8wwl/6IJsu1OC3yKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sasha\\Desktop\\OOP-Lab4-main\\Main files\\Lab 4_2 project files\\Lab4_2\\Lab4_2\\Lab4_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sasha\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\sasha\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\sasha\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
